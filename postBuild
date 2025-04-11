@@ -1,0 +1,3 @@
+#!/bin/bash
+pip install --no-cache-dir ipywidgets matplotlib numpy nest_asyncio
+jupyter nbextension enable --py widgetsnbextension
